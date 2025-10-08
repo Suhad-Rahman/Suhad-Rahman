@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=vscode,atom,visualstudio,webflow" />
+    <img src="https://skillicons.dev/icons?i=html,css,c,cpp" /> <br>
+    <img src="https://skillicons.dev/icons?i=vscode,atom,visualstudio,webflow" /> <br>
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
   </a>
 </p>
